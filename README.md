@@ -3,25 +3,21 @@
 Welcome to my GitHub profile! I'm Boobalan, and I love python  coding , building projects...
 
 ## 🚀 About Me
-- 🌱 I’m currently learning: [Skill/Technology]
-- 💼 I’m working on: [Your current project or company]
-- 💬 Ask me about: [Topics you're comfortable discussing]
-- 📫 How to reach me: [Your email or social links]
-- ⚡ Fun fact: [Something interesting about you]
+🌱 I’m a Medicinal Chemist, currently exploring AI, Machine Learning, and Statistics to enhance drug discovery and molecular analysis.
+🔧 I’m working on: Python projects involving data analysis, ML modeling, and sometimes chemical datasets
+💬 Ask me about: Python automation, data cleaning, machine learning workflows, and computational chemistry tools
+⚡ Fun fact: I’m a computer enthusiast who enjoys blending science and code—and yes, I have a soft spot for orange cat chaos!
+
 
 ## 🛠️ My Skills
-- **Languages**: [e.g., Python, JavaScript, C++]
-- **Frameworks**: [e.g., Django, React, Flask]
-- **Tools**: [e.g., Git, Docker, Kubernetes]
-- **Interests**: [e.g., AI, Machine Learning, Web Development]
+Languages: Python, SQL
+Libraries: Pandas, NumPy, scikit-learn
+Tools: Git, VS Code, Anaconda, Selenium
+Interests: Artificial Intelligence, Machine Learning, Drug Discovery, Scientific Data Analysis
+
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🌟 Featured Projects
-- [Project 1 Name](link): Short description.
-- [Project 2 Name](link): Short description.
-
----
 
 Thank you for visiting! Feel free to reach out. 😊
